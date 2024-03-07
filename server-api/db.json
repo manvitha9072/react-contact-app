@@ -1,0 +1,32 @@
+{
+    "contacts": [
+        {
+            "id": "bb5de766-a0c2-496b-b593-61ea2af32bda",
+            "name": "Kmit",
+            "email": "21bd1a050pcsea@gmail.com",
+            "isContactAdded": false
+        },
+        {
+            "id": "cea1d654-c6f2-4f1d-91de-aa00b5f7c8da",
+            "name": "sahfgsuijdnbjhg",
+            "email": "21bd1a050pcsea@gmail.com",
+            "isContactAdded": false
+        },
+        {
+            "name": "sahfgsuijdnbjhg",
+            "email": "21bd1a050pcsea@gmail.com",
+            "isContactAdded": false
+        },
+        {
+            "id": "1638a4d5-a085-4279-8b42-bc708865b6bc",
+            "name": "Aalap",
+            "email": "m.manvitha21@gmail.com",
+            "isContactAdded": false
+        },
+        {
+            "name": "Aalap",
+            "email": "m.manvitha21@gmail.com",
+            "isContactAdded": false
+        }
+    ]
+}
